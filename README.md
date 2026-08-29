@@ -39,7 +39,7 @@ The analysis is built as a ready-to-run Google Colab script, making it easy to r
 
 1. Open [Google Colab](https://colab.research.google.com/)
 2. Create a new notebook
-3. Copy the code from [cardekho_car_amrket_trend_analysis](https://colab.research.google.com/drive/1-vxwtoK7g-Mes-UTJo-ltTKHfNhVnHfG?usp=sharing) into cells (the script is pre-split into 11 labeled cells — `# --- CELL 1`, `# --- CELL 2`, etc.)
+3. Copy the code from [cardekho_car_market_trend_analysis](https://colab.research.google.com/drive/1-vxwtoK7g-Mes-UTJo-ltTKHfNhVnHfG?usp=sharing) into cells (the script is pre-split into 11 labeled cells — `# --- CELL 1`, `# --- CELL 2`, etc.)
 4. Run each cell in order and upload the CSV file when prompted in Cell 1
 
 ## 📊 Analysis Covered
