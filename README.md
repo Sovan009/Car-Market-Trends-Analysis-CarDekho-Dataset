@@ -72,7 +72,7 @@ Running the full script produces:
 
 ## ✍️ Author
 
-Madhav — B.Tech, Computer Science & Data Science
+Sovan Kar — B.Tech, Computer Science & Data Science
 
 ## 📄 License
 
